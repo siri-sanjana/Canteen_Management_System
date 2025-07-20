@@ -11,7 +11,6 @@ This project implements a simple **Canteen Management System** using C programmi
 - `cms.txt`: Project description or sample interaction.
 - `canteen management system.pdf`: Project documentation.
 - `canteen management system.pptx`: Final presentation.
-- `canteen management system 2nd review.pptx`: Interim review slides.
 
 ## 💡 Features
 
