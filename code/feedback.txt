@@ -1,0 +1,17 @@
+name quantity quality service comments 
+sanjana 4 5 4 food can be served even more hot
+name quantity(1-5) quality(1-5) service(1-5) comments 
+sanjana 3 4 5 food can be served hot
+ 	name quantity(1-5) quality(1-5) service(1-5) comments 
+sanjana       5           3           4           food can be served even more hotter
+ 	name  quantity(1-5)   quality(1-5)   service(1-5) comments 
+  sanjana         4                  3              5             food can be served even more hotter
+ 	name  quantity(1-5)   quality(1-5)   service(1-5) comments 
+  sanjana         4                  4              5             food can be served even hotter
+ 	name  quantity(1-5)   quality(1-5)   service(1-5)     comments 
+  sanjana         4                  4              5       food can be served even more hotter
+ 	name  quantity(1-5)   quality(1-5)   service(1-5)     comments 
+  Sanjana         4                  5              4       Food could have been served hot
+ 	name  quantity(1-5)   quality(1-5)   service(1-5)     comments 
+  varshitha         3                  4              5       food can be served hot
+ 	
